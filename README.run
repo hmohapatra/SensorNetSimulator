@@ -1,0 +1,10 @@
+"./simulator" to run
+
+Results are stored in Results/ directory
+
+Initialization occurs every time the program is called. The initilized
+network information is stored in Initilize/ directory. All the nodes are
+totally randomized.
+
+.ps files are stored in Results/ and Initialize/ directory. Use the "gv"
+command to view them. 

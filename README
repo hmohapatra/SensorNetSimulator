@@ -1,0 +1,23 @@
+
+Modified LEACH Simulator
+
+What is it?
+-----------
+
+LEACH is a Sensor Nework Algorithm.
+ 
+ / LEACH info here /
+
+My Algorithm is an improvement over LEACH. It gives us much higher network
+lifetimes and also results in slower deaths of the nodes resulting in
+higher number of nodes capable of transmitting in each successive rounds.
+
+Acknowledgements
+----------------
+
+Thanks to the following people, whose copyrighted works make up parts of
+this simulator.
+
+* <leach authors here>  - For the LEACH protocol which was the starting point of this
+   simulator.
+

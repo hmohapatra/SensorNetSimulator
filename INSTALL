@@ -1,0 +1,7 @@
+Install instructions
+--------------------
+
+run "make" to create binaries
+run "make clean" to clean up the OBJs.
+
+
