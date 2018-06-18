@@ -6,8 +6,6 @@ What is it?
 
 LEACH is a Sensor Nework Algorithm.
  
- / LEACH info here /
-
 My Algorithm is an improvement over LEACH. It gives us much higher network
 lifetimes and also results in slower deaths of the nodes resulting in
 higher number of nodes capable of transmitting in each successive rounds.
